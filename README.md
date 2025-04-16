@@ -1,5 +1,5 @@
-This is the replication package for the work titled Rookie Mistakes: Investigating Architectural Anti-patterns and
-Code Smells in University Projects from OOP Courses.
+This is the replication package for the work titled Rookie Mistakes: Measuring Software Quality in
+Student Projects to Guide Educational Enhancement.
 
 The package contains the following information:
 1) For each student project there is the report of both ArchUnit and SonarQube.
